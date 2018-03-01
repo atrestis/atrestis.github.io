@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/atrestis/atrestis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate of Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). My major focus is software development and cybersecurity. I am passionate about cutting-edge technologies, hot topics as the Internet of Things as well as ethical hacking and computer forensics. I think myself as an eager and continuous learner. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience - 1.5 Years
 
-```markdown
-Syntax highlighted code block
+Current Project: working for a major betting operator, developing systems and apps in C, C++
 
-# Header 1
-## Header 2
-### Header 3
+* Develop C, C++ web & server applications
+* Experience with JNI (Java Native Interface) framework
+* Experience with Oracle Call Interface (C language software APIs)
+* Experience with package managers (rpm, npm) etc.
+* Experience with API development & testing (Postman, Swagger etc.)
+* Unit & integration testing
+* Experience with Qt, Boost and CppCMS libraries
+* Debug & test current implementations (IBM debugger for AIX)
+* Deep hands-on experience with *nix systems and sys administration
+* Engage in the automation of building complex applications (using make, bamboo etc)
+* Create functional and technical documents
+* Experience with project management tools (i.e. JIRA)
+* Familiarity with DevOps concept
+* Experience with automated HTML documentation (doxygen)
 
-- Bulleted
-- List
+### Personal Projects
 
-1. Numbered
-2. List
+* Building an RPG site
+* Blogging
 
-**Bold** and _Italic_ and `Code` text
+### Education
 
-[Link](url) and ![Image](src)
-```
+* MSc in Systems Security @ Vrije University of Amsterdam, Netherlands (2 start)
+* BSc in Information Systems and e-Business @ DMST AUEB, Greece
+* Erasmus student @ Vaasa University - Finland
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atrestis/atrestis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact -social media items
