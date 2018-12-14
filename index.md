@@ -1,10 +1,12 @@
 ## Welcome 
 
-I am a graduate of Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). My major focus is software development and cybersecurity. I am passionate about cutting-edge technologies, hot topics as the Internet of Things as well as ethical hacking and computer forensics. I think myself as an eager and continuous learner. 
+Hello and welcome! I am a graduate of Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). Currently at the MSc in Computer Systems Security at the Vrije University of Amsterdam. My major focus is systems security and cybersecurity as well as software development. I am passionate about cutting-edge technologies, hot topics as the Internet of Things as well as ethical hacking and computer forensics. An eager and continuous learner. 
+
+I was employed as a Software Engineer at Accenture Greece, working for a major betting partner, and I built systems and apps in C, C++, and other languages while gaining experience in integrating and testing complicated IT systems.
 
 
 
-### Experience - 1.5 Years
+### Working Experience 
 
 Current Project: working for a major betting operator, developing systems and apps in C, C++
 
@@ -30,9 +32,16 @@ Current Project: working for a major betting operator, developing systems and ap
 
 ### Education
 
-* MSc in Systems Security @ Vrije University of Amsterdam, Netherlands (2 start)
+* MSc in Systems Security @ VU & UvA, Netherlands
 * BSc in Information Systems and e-Business @ DMST AUEB, Greece
-* Erasmus student @ Vaasa University - Finland
+* Erasmus student @ Vaasa University, Finland
 
 
-### Contact -social media items
+### Don't be a stranger ;)
+
+
+[![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/atrestis) [![](https://img.shields.io/github/followers/espadrine.svg?label=Follow&style=social)](https://github.com/atrestis)
+
+
+
+
