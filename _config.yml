@@ -2,7 +2,6 @@ title: whoami
 description: Atrestis static website
 theme: jekyll-theme-hacker
 plugins: jekyll-seo-tag
-
 footer-links:
   email:
   github: atrestis
