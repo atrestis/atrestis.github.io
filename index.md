@@ -39,7 +39,7 @@ _Note: compulsory service to Greek Army_
 
 * Intermediate: C, C++, Python, Java SE, SQL, shell scripting
 * Beginner: Mongo DB, JavaScript, jQuery, Node.js, HTML5, CSS3
-* Tools/techniques: Git, TDD, DevOps, RESTful web apps, Jira, Make, PyCharm, IBM debugger
+* Tools/techniques: Git, TDD, DevOps, Jekyll, RESTful web apps, Jira, Make, maven, PyCharm, IBM debugger
 
 ### `Education`
 
@@ -70,10 +70,10 @@ _Note: compulsory service to Greek Army_
 
 ### `Fun Fact`
 
-![xkcd/386](dutycalls.png)
+![](dutycalls.png "xkcd/386")
 
 
 ### `Don't be a stranger ;)`
 
-[![Send a tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/atrestis)
-[![Follow me](https://img.shields.io/github/followers/atrestis.svg?style=social)](https://github.com/atrestis)
+[![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/atrestis "Send a tweet")
+[![](https://img.shields.io/github/followers/atrestis.svg?style=social)](https://github.com/atrestis "Follow me")
