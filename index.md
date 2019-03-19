@@ -47,13 +47,13 @@ _Note: compulsory service to Greek Army_
 
 ### Other Experiences
 
-* volunteering in teams helping refugees in Athens
+* Volunteering in teams helping refugees in Athens
 * DIY projects using Raspberry Pi and Arduino
 * A member of ELAK (free software of open code)
 * Involvement in coding marathons - Technologies used: Python, C/C++, Git, Jenkins
-* photo shooting
-* literature
-* chess
+* Photo shooting
+* Literature
+* Chess
 
 ### Languages
 

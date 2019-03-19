@@ -1,4 +1,11 @@
-title: [Atrestis Personal Website]
-description: [A static website to present relevant information about me]
+title: whoami
+description: Atrestis static website
 theme: jekyll-theme-hacker
 plugins: jekyll-seo-tag
+
+footer-links:
+  email:
+  github: atrestis
+  linkedin:
+  twitter: atrestis
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
