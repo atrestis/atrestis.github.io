@@ -4,8 +4,9 @@ Hello and welcome! I am a graduate of Athens University of Economics and Busines
 
 ### `Professional Experience` 
 
-[October 2016 - April 2018] __Accenture, Software Engineer__  
-Latest Project: worked for a major betting operator, developing systems and apps in C, C++
+> October 2016 - April 2018  
+__Accenture, Software Engineer__  
+_Latest Project: worked for a major betting operator, developing systems and apps in C, C++_
 
 * Shell scripting
 * Deep hands-on experience with *nix systems (AIX, CentOS, etc.)
@@ -16,13 +17,19 @@ Latest Project: worked for a major betting operator, developing systems and apps
 * Gained experience with project management tools (Jira, StashBlue, Slack)
 * Familiriased with DevOps techniques
 
-[Janyary 2016 – Aug 2016] __EmTech, Software Engineer__  (Trainee as part of the academic program)
+> Janyary 2016 – Aug 2016  
+__EmTech, Software Engineer__  
+_Trainee as part of the academic program_  
+
 * Researched cloud technologies (AWS, Docker containers, Google Platform)
 * Familiriased with business reports (feasibility, proof of concept, theoretical deployment)
 * Familiriased with cloud computing
 * Researched load balancing algorithms for distributed systems
 
-[March 2015 – November 2015] __Greek Army, private (_in parallel with my BSc_)__  
+> March 2015 – November 2015  
+__Greek Army, private__  
+_In parallel with my BSc_
+
 * Maintained the central IT system which was responsible for handling all the financial monitoring of the military gas station and supermarket
 * Worked with C and shell scripts, creating financial reports for the entire military unit.
 
