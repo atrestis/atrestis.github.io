@@ -61,11 +61,12 @@ _Note: compulsory service to Greek Army_
 * English (proficient)
 * German (elementary)
 
-### Fun Fact
+### `Fun Fact`
 
-![](dutycalls.png)
+![xkcd/386](dutycalls.png)
 
 
-### Don't be a stranger ;)
+### `Don't be a stranger ;)`
 
-[![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/atrestis) [![](https://img.shields.io/github/followers/espadrine.svg?label=Follow&style=social)](https://github.com/atrestis)
+[![Send a tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/atrestis)
+[![Follow me](https://img.shields.io/github/followers/atrestis.svg?style=social)](https://github.com/atrestis)
