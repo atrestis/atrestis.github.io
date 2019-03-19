@@ -1,1 +1,4 @@
+title: Atrestis Personal Website
+description: A static website to present relevant information about me
 theme: jekyll-theme-hacker
+plugins: jekyll-seo-tag
