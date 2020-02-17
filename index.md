@@ -1,6 +1,7 @@
 ### `whoami`
 
-Hello and welcome! I am a graduate of Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). Currently, I am doing my master in Computer Systems Security at the Vrije University of Amsterdam and University of Amsterdam. My major focus is systems security and cybersecurity as well as software development. I am passionate about cutting-edge technologies, hot topics as the Internet of Things as well as ethical hacking and computer forensics. An eager and continuous learner. 
+Hello world :-) I am a graduate of Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). Currently, I am doing my masters on Computer Science at the Vrije University of Amsterdam and University of Amsterdam. My major focuses are distributed systems and software development. I am passionate about cutting-edge technologies, writing scripts and experimenting with new technologies and/or frameworks. 
+__An eager and continuous learner.__ 
 
 ### `Professional Experience` 
 
@@ -19,7 +20,7 @@ _Latest Project: worked for a major betting operator, developing systems and app
 
 > Janyary 2016 – Aug 2016  
 __EmTech, Software Engineer__  
-_Trainee as part of the academic program_  
+_Trainee as part of the academic curriculum_  
 
 * Researched cloud technologies (AWS, Docker containers, Google Platform)
 * Familiriased with business reports (feasibility, proof of concept, theoretical deployment)
@@ -38,29 +39,46 @@ _Note: compulsory service to Greek Army_
 ### `Technical Skills`
 
 * Intermediate: C, C++, Python, Java SE, SQL, shell scripting
-* Beginner: Mongo DB, JavaScript, jQuery, Node.js, HTML5, CSS3
-* Tools/techniques: Git, TDD, DevOps, Jekyll, RESTful web apps, Jira, Make, maven, PyCharm, IBM debugger
+* Beginner: Mongo DB, JavaScript, jQuery, Node.js
+* Tools/techniques: Git, DevOps, Jekyll, RESTful web apps, Jira, make, maven, PyCharm, IBM debugger
+
+### `Familiar Topics`
+* Data Structures
+* Multithreading & Multiprocessing 
+    - OpenMP
+    - POSIX threads
+    - CUDA programming
+* Networks
+* Information Visualization
+    - Flask
+    - Bokeh
+    - D3
+    - HTML5
+    - CSS3
+* Protocol Validation
+* Test Driven Development
 
 ### `Education`
 
-* _[September 2018 - June 2020 (expected)]_ MSc in Systems Security @ VU & UvA, Netherlands 
+* _[September 2018 - December 2020 (expected)]_ MSc in Computer Science @ VU & UvA, Netherlands 
 * _[September 2010 - June 2016]_ BSc in Information Systems and e-Business @ DMST AUEB, Greece
 * _[September 2012 - December 2012]_ Erasmus student @ Vaasa University, Finland
 
 ### `Personal Projects`
 
-* Building an RPG site
+* Developing a suggestion system for character builds in RPGs
 * Blogging
 
-### `Other Experiences` 
+### `Other Experiences & Interests` 
 
-* Volunteering in teams helping refugees in Athens
+* Volunteer in teams (social kitchen) helping refugees and homeless people in Athens
 * DIY projects using Raspberry Pi and Arduino
 * A member of ELAK (free software of open code)
 * Involvement in coding marathons - Technologies used: Python, C/C++, Git, Jenkins
-* Photo shooting
-* Literature
-* Chess
+* Avid gamer
+* Chess newbie
+* Book eater
+* Folk music lover
 
 ### `Languages`
 
