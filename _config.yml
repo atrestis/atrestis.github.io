@@ -2,4 +2,5 @@ title: whoami
 description: Atrestis static website
 theme: jekyll-theme-hacker
 plugins_dir: jekyll-seo-tag
-github: [metadata]
+github: 
+  repository_url: https://github.com/atrestis/atrestis.github.io
