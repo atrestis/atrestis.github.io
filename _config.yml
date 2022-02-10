@@ -1,6 +1,7 @@
 title: whoami
-description: Atrestis static website
+description: Curriculum Vitae
 theme: jekyll-theme-hacker
-plugins_dir: jekyll-seo-tag
+plugins: 
+  - jekyll-seo-tag
 github: 
   repository_url: https://github.com/atrestis/atrestis.github.io
