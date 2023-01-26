@@ -1,13 +1,19 @@
 ## `whoami`
 
-Hello world :-) I am a graduate of Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). Completed my MSc in Computer Science at the Vrije University of Amsterdam and UVA. My major focuses are distributed systems and software engineering. 
-__An eager and continuous learner.__ 
-
-I am currently employed as a Software Engineer at GRNET.
+Hello world :-)  I hold an MSc on Computer Science from the Vrije University of Amsterdam and University
+of Amsterdam. Furthermore, I hold a BSc from Athens University of Economics and Business (Department of Management Science and Technology with a major in Information Systems and e-Commerce). My major focuses are distributed systems and software development. I am passionate about cutting-edge technologies, writing scripts and experimenting with new technologies and/or frameworks. __Building the legacy systems of the future, one function at a time__.
 
 ## `ls exp`
 
-### June 2021 - Present
+### December 2022 - Present
+#### __Experiencegift, DevOps Engineer__
+
+- Monitoring
+- Logging
+- Sys/Ops
+- DNS management
+
+### June 2021 - December 2022
 #### __GRNET, Software/DevOps Engineer__
 
 - DevOps [ Ansible ]
