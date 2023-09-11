@@ -25,16 +25,21 @@ of Amsterdam. Furthermore, I hold a BSc from Athens University of Economics and 
 ### June 2021 - December 2022
 #### __GRNET, Software/DevOps Engineer__
 
-- DevOps [ Ansible ]
-- Monitoring Stack [ Prometheus, Grafana, Node Exporter, Alert Manager ]
-- Automated Application Backup with de-duplication [ Borg, Borgmatic ]
-- API gateway [ Krakend, Kong ]
-- Experience with web servers [ NGINX reverse proxy, Apache2 ]
-- Database experience [ mysql, postgres ]
-- Distributed Systems [ Kubernetes, Docker instrumentation, Vagrant ]
+- DevOps [ Gitlab CI/CD pipelines | DebOps management ]
+- Configuration management [ Ansible ]
+- Monitoring Stack [ Prometheus | Grafana | Exporters (Node, Varnish, Mysqld, Nginx, Apache, Redis, Blackbox) ]
+- Automated Application Backup with de-duplication [ Borg | Borgmatic ]
+- Log Management [ Graylog stack: ElasticSearch | Logstash | MongoDB | JVM ]
+- Firewall Management [ ufw | ferm | iptables ]
+- API gateway [ Krakend | Kong ]
+- Experience with web servers [ NGINX reverse proxy | Apache2 ]
+- Experience with build tools [ maven ]
+- Database experience [ mySQL | postgres ]
+- Distributed Systems [ Kubernetes | Helm pkg manager | Docker instrumentation, Docker Swarm | Vagrant ]
 - Knowledge Base Infrastructure [ Docusaurus ]
 - Load Testing [ Locust ]
-- API testing [ JMeter, Postman, Swagger ]
+- API testing [ JMeter | Postman | Swagger ]
+- Application Testing [ Unit Testing | e2e Testing | jest.js | supertest ]
 
 ### October 2016 - April 2018  
 #### __Accenture, Software Engineer__  
