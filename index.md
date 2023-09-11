@@ -5,6 +5,15 @@ of Amsterdam. Furthermore, I hold a BSc from Athens University of Economics and 
 
 ## `ls exp`
 
+### May 2023 - Present
+#### __Ansys, DevOps Engineer II__
+
+- Heavy development on Grafana Dashboards
+- InfluxDB management
+- Development of Exporters for telemetry data
+- Custom script template creation for Icinga2 monitoring system
+- Python/Bash scripting
+
 ### December 2022 - Present
 #### __Experiencegift, DevOps Engineer__
 
